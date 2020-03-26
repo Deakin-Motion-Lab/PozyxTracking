@@ -1,0 +1,10 @@
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\bin\Debug\OSCReader - Basic.exe.config
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\bin\Debug\OSCReader - Basic.exe
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\bin\Debug\OSCReader - Basic.pdb
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\bin\Debug\Rug.Osc.dll
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\bin\Debug\Rug.Osc.xml
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\obj\Debug\OSCReader - Basic.csprojAssemblyReference.cache
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\obj\Debug\OSCReader - Basic.csproj.CoreCompileInputs.cache
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\obj\Debug\OSCReader - Basic.csproj.CopyComplete
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\obj\Debug\OSCReader - Basic.exe
+C:\Projects\Pozyx\OSC\OSCReader - Basic\OSCReader - Basic\obj\Debug\OSCReader - Basic.pdb

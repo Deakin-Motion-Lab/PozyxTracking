@@ -1,0 +1,17 @@
+// AnchorIDs and Co-ordinates
+
+// Notes: 
+//    AnchorIDs are entered as Hexadecimal numbers (0xhhha), eg: 0x001a
+//    Coordinates (x, y, z) are in mm and must be expressed in integers (whole numbers)
+//        Negative numbers are acceptable (eg. -2500)
+//    Anchor coordinates must be measured as accurately as possible
+//    One anchor is defined as point of origin (0, 0, z) - typically the anchor connected to PC via USB cable
+//    The remaining anchors' (x, y) position are defined relative to the origin anchor's (x, y)
+//    All 'z' values (height) are measured from the ground / floor to top of anchor (location of UWB chip)
+//    Enter values as: AnchorID,x,y,z
+
+// Anchors
+0x004a,0,0,1300
+0x001a,3290,-2670,130
+0x002a,3290,3510,2110
+0x003a,-280,3670,120
